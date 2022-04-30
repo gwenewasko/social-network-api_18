@@ -1,4 +1,4 @@
-# 19 Social Network API
+# 18 Social Network API
 
 ## Description
 
@@ -15,6 +15,8 @@ The last piecec of functionality is adding and removing friends. I can add or de
 - JavaScript
 
 ## Walkthrough Video
+
+- Watch the walkthrough [here.](https://drive.google.com/file/d/1QaKBYL2dcjvAq0gZNUwH5U5Z2hmYl762/view?usp=sharing)
 
 ## Links
 
